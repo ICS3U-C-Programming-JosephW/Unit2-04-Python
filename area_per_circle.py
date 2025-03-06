@@ -23,7 +23,7 @@ def main():
     circumference = 2 * PI * radius
 
     # Display the area.
-    print(f"\nArea = {area:.2f} cm")
+    print(f"\nArea = {area:.2f} cm^2")
 
     # Display the circumference.
     print(f"Circumference = {circumference:.2f} cm")
